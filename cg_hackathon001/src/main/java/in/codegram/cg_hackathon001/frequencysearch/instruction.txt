@@ -1,0 +1,6 @@
+Ten numbers are entered from the keyboard into an array. 
+The number to be searched is entered  through the keyboard by the user. 
+Write a function which should get the array as input and a number to be searched. 
+This function should return the frequency of a searched number in provided list of 
+numbers. 
+

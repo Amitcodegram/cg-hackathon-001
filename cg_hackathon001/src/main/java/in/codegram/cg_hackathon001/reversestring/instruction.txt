@@ -1,0 +1,5 @@
+Write a function revereseIt(), that reverse a String. 
+Use a for loop that swaps the first and last characters, then second and next-to-last characters and so on. 
+The string should be passed to revereseIt() method as an argument and it should return the reverse string. 
+Write a program to exercise reverseIt(). The program should get the string from the user. 
+Call reverseIt() and print the output. Check the program with the following String “Able was I era I saw elba.”.

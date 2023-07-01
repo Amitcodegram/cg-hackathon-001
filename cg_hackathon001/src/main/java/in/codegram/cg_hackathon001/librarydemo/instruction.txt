@@ -1,0 +1,35 @@
+Imagine that you are working on a library management app. 
+In this app, members can get the books issued. 
+We have a data of books which are issued by members. 
+Your job is to find out the average number of books that are issued in a month by library members. 
+
+Follow the below instructions to attempt this exercise.
+1. Create a Person class
+2. Keep id, name, books_issued fields in Person class.
+3. Create a parameterized constructor in Person class, and you must have getters for all fields. 
+4. Create a LibraryDemo class with main method
+5. Use below table for further reference.
+6. Make sure to use modular approach.
+
+-----------Persons data---------------------------------------
+Person[] persons=new Person[]{
+new Person(101,"pankaj",3),
+new Person(102,"vikas",2),
+new Person(103,"vineet",3),
+new Person(104,"akash",1),
+new Person(105,"shalini",0),
+new Person(106,"shikha",1),
+new Person(108,"prateek",3)
+};
+
+----------Get only books_issued number-----------------------------
+private int[] getBooksIssued(Person[] persons){
+//TODO: Write your logic here
+return null;
+}
+
+-----------------Find the average books issued by all members------------------
+private int findAvgBookIssued(int[] books_issued){
+//TODO: Write your logic here
+}
+ 
